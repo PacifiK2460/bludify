@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bludify</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Mapa</string>
+    <string name="title_dashboard">Adoptadores</string>
+    <string name="title_notifications">Mascotas</string>
+    <string name="search_hint">Veterinario</string>
+</resources>
